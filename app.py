@@ -144,3 +144,6 @@ with st.expander("Show data for the selected year"):
     )
 
 print("Dashboard ready - deployed from GitHub to Streamlit Cloud")
+
+st.divider()
+st.caption("Built by Taran · Lab 4 Git & Streamlit deployment · Data: Our World in Data")
