@@ -142,3 +142,5 @@ with st.expander("Show data for the selected year"):
         width="stretch",
         hide_index=True,
     )
+
+print("Dashboard ready - deployed from GitHub to Streamlit Cloud")
