@@ -1,0 +1,20 @@
+# Colab / Jupyter checkpoint folders
+.ipynb_checkpoints/
+.config/
+sample_data/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Secrets and environment files (never commit a token)
+.env
+.env.*
+*.env
+
+# Data files
+data/
+*.csv
+
+# Streamlit local secrets
+.streamlit/secrets.toml
